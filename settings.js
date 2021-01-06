@@ -5,7 +5,7 @@
 module.exports = {
 
     //your bot api key get it from botfather
-    bot_api_key: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    bot_api_key: "1251613397:AAG_akn6CXfKQt94wwEELNojcsA_dJ9LZfU",
 
     //Jiosaavn api url {url format will be same as following}
     // create your jiosaavn api from https://github.com/cachecleanerjeet/jiosaavnapi
